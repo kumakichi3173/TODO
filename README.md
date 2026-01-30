@@ -6,7 +6,6 @@
 ## Completed
 - **All device serial numbers have been removed from Intune and double-checked.**
 - **Factory reset has been performed on the remaining two devices.**
-- **All labels and iPhone cases have been removed.**
 
 ## Verification Status
 - **No labels remain on any device.**
